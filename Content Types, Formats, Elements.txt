@@ -1,0 +1,65 @@
+﻿Content Types, Formats, Elements
+Titles / H1s 
+* Please capitalize titles of articles according to the APA style guide. You can use a capitalization tool, if you’re unsure. Additional guidelines in the Grammar and Punctuation section.
+* Titles should not exceed 70 characters to ensure that they are not cut off in the search engine. 
+* Ideally, to ensure an organized grid, titles should include up to 55 characters only. 
+Subheaders
+* Frequently use H2s, H3s and even H4s to structure the text. However, make sure to keep the hierarchy of the headlines also in the content. This means the content under an H2 should be a subcategory, specification or deep-dive into the H1 content and so on.
+* For H2, H3, H4, etc. use sentence case. Do not capitalize subheaders.
+* Subheaders can be longer, however, they may not display in full on the ToC on the side of the page, if they are too long.
+Bulleted Lists
+
+
+* In bulleted lists, sentences should end with a period.
+* Sentence fragments should not end with a period.
+* A bulleted list should either be 100% sentences or sentence fragments (not a combo).
+Article summary
+* Each article should start with a short introduction or summary that is displayed on the magazine homepage.
+* Summaries should not exceed 300 characters. The ideal length is around 250 chrs. The summary appears on the magazine homepage. The text should serve as a kind of teaser to inspire visitors to open the article.
+URLs
+* Keep it short, simple, and descriptive. 
+* Always include the primary keywords in the title and URL, preferably at the beginning.
+* Always use lower case, avoid abbreviations, and special characters. Furthermore, use hyphens to separate.  
+* Example of URL structure: https://onchain.org/magazine/the-history-of-tokenization-older-than-you-think/
+Meta Description:
+* The meta description appears on the SERP (Search Engine Results Page) underneath the page title and URL. 
+* It should be a short text raising curiosity about the article, preferably in the form of a CTA. 
+* Please include the main keyword. 
+* Meta descriptions can be between 140 and 160 chrs. (usually gets cut off at 150+). 
+Tags: I will prepare a list of tags to choose from to add to the articles
+
+
+Text linking  
+* When providing statistics, quotes, and other specific information please link to the relevant source. When citing academic sources, please mention the name of the source. In the grammar and punctuation section you can find more details about citations and quotes.  
+* Link to credible sources only. The best sites to link to are: academic publications, known brands and media outlets and publishers, official institutions, industry-related influencer blogs etc.  Affiliate sites are not considered reliable sources. Don’t link to sites if you’re not sure who’s behind it. 
+* Link every source only once, preferably the first time it appears in the text.
+* Choose an anchor text that helps the reader understand the link source. (i.e. a statistical figure will lead to where the statistics are published, or the name of the publication, source site etc.)
+* We strongly encourage you to link to other related articles in the magazine. If possible use the article title (or part of it), or the primary keyword of that article as anchor text.
+SEO
+* Magazine articles are generally written based on an SEO brief. Please keep basic SEO principles in mind. 
+* Each article focuses on one primary keyword and is typically part of an SEO topic cluster. 
+* If you are not writing based on an SEO brief, Ask yourself: What are the questions your text answers? What words / terms would a reader use to find answers to these questions? These are the keywords to focus on. Choose your primary keyword and write the article with this term in mind.
+* In general, what’s good for the reader is good for SEO.
+* This keyword should appear in title (H1), metadata, and URL slug. It should also appear naturally within the text. 
+* Secondary keywords are ideal to be used in H2s and also inside the content. 
+* Do not force keywords into the text. 
+* Use synonyms and variations of the keyword.
+* Structure the article in a clear logical way and use subheaders, bullet points, and numbered lists. 
+Emojis, Gifs, Memes
+* Emojis. Emojis are welcome in the magazine and in emails if they make sense and add value. They should not distract the reader or interfere with the textflow – unlike in social media where the main purpose is to attract attention, this is not needed in articles or emails. So, don’t overdo it.
+* GIFs. We prefer to keep GIFs at a minimum. Images, videos, or infographics should be your first choice. 
+* Memes. Memes are acceptable as long as they are in line with our overall language guidelines of inclusive, non-offensive language and are directly relevant to the article. 
+Images:
+
+
+* Writers make image suggestions.
+* If you have an idea of an image but can’t find a suitable one, put a comment to Lucas explaining your suggestions / idea. 
+* If you want a part of the text to be turned into an image or a graph, mark it and add a comment for Lucas.
+* If there’s a screenshot, always add the source in the following manner: name of website with an embedded link and the full link in a comment. The source will appear in the caption ( no need to write out the full link in the caption)
+* Graphs and infographics need a title. 
+* Add Alt Text to the image: This should describe what’s in the image. Alt Text is an accessibility tool that turns text into spoken language. The Alt Text also appears when the image is not displayed for some reason in the browser. It can also appear when you hover over the image.[a][b][c]
+
+
+[a]Does the designer add the alt text based on the comments we leave, or should we add that after? I suppose I'm asking where in the workflow it's best to prepare this.
+[b]@ruth.m.trucks@onchain.org  Tagging to add it to items to follow up on.
+[c]👍
